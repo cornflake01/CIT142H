@@ -1,0 +1,11 @@
+
+Initialization of your local folder -- done once only
+git init 
+git remote add origin (URL)
+
+Adding files to your repository
+1. git add (file name) OR git add .
+2. git commit -m "comment"
+3. git push
+
+Checking the status of your repository: git status
