@@ -1,0 +1,64 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: violet;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/726/889/74/jojo-s-bizarre-adventure-giorno-giovanna-minimalism-manga-hd-wallpaper-preview.jpg);
+  }
+  
+  #main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+  }
+
+  .centered-heading {
+  text-align: center;
+}
+  
+  #img-div {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    color: #555;
+  }
+  
+  #tribute-info {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  #tribute-link {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #0074d9;
+  }
+  
+  #tribute-link:hover {
+    text-decoration: underline;
+  }
+  
